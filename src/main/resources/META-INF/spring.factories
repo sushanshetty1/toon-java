@@ -1,0 +1,2 @@
+# This file is deprecated in Spring Boot 3.
+# Auto-configuration should use META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports instead
